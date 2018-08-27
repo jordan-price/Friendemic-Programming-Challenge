@@ -1,3 +1,3 @@
 ## Documentation
 
-A PDF documentaion has been created and is avaiable here: <a href="https://github.com/Elizondro/Friendemic-Programming-Challenge/public/files/resources.zip">Resource.zip</a>
+A PDF documentaion has been created and is avaiable under "public/files/resources.zip", or you can download the file running the Laravel application.
